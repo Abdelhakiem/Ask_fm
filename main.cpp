@@ -668,7 +668,3 @@ int main() {
     my_sys.run();
 
 }
-/*
-for (int i=0;i<n; i++)
-*/
-
